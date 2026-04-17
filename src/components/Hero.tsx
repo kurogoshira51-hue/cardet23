@@ -28,7 +28,7 @@ export default function Hero() {
         />
         {/* Grid overlay */}
         <div className="absolute inset-0 grid-overlay opacity-60" />
-        {/* Purple glow spots */}
+        {/* zinc-400 glow spots */}
         <div
           className="absolute top-1/3 right-1/4 w-96 h-96 rounded-full pointer-events-none"
           style={{
@@ -61,7 +61,7 @@ export default function Hero() {
 
           {/* Main heading */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-black leading-tight tracking-tight mb-6">
-            <span className="text-white">TTR</span>
+            <span className="text-white">DarkLine</span>
             <br />
             <span
               className="text-glow"
