@@ -1,7 +1,7 @@
 import { ArrowRight, Star, Shield, Clock } from 'lucide-react';
 
 const stats = [
-  { value: '500+', label: 'Автомобилей' },
+  { value: '500+', label: 'Авто' },
   { value: '5★', label: 'Рейтинг' },
   { value: '8 лет', label: 'Опыта' },
 ];
